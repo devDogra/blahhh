@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
+  },
+  "dependencies": {
+    "haversine-js": "^1.0.0",
+    "s-haversine": "^2.0.0"
+  }
+}
